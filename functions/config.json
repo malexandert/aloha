@@ -2,5 +2,9 @@
     {
         "name": "jetski",
         "private": false
+    },
+    {
+        "name": "byeMobius",
+        "private": false
     }
 ]
